@@ -1,6 +1,6 @@
 Git and GitHub are used for version control.
 
-Git manages your files locally. Neil's mom's name is Diane. Change done on my c drive.
+Git manages your files locally. My mom is Bonnie and Neil's mom's name is Diane. Change done on my c drive.
 
 GitHub hosts your files in the cloud. Change done in GitHub.
 
