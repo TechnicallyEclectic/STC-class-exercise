@@ -2,7 +2,7 @@ Git and GitHub are used for version control.
 
 Git manages your files locally.
 
-GitHub hosts your files in the cloud.
+GitHub hosts your files in the cloud. Change done in GitHub.
 
 This is the user manual for the new gadget.
 
